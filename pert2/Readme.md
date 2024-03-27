@@ -1,7 +1,7 @@
 # GITHUB COMMAND LINE SAAT INISIALIASI PROJRCT 
 
 -git init 
-digunakan untuk apa?
+digunakan untuk apa coba?
 
 -git add 
 digunakana untuk apa?
