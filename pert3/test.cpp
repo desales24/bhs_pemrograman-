@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-cout << "hello";
-cout << "nama saya ..."
+cout << "hello" << endl;
 return 0;
 }
