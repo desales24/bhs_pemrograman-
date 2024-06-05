@@ -144,6 +144,24 @@ Inovasi Produk: Terus mengembangkan menu dengan menciptakan minuman baru dan men
 
 Tujuan proyek ini adalah untuk meningkatkan kualitas produk yang konsisten, meningkatkan pangsa pasar, dan menciptakan pengalaman pelanggan yang positif. Melalui proyek ini, Minuman SerbaSaji berharap dapat meningkatkan penjualan sebesar 15% dari tahun ke tahun, memperluas pangsa pasar dengan menarik lebih banyak pelanggan baru, dan meningkatkan tingkat kepuasan pelanggan.
 
+### Fitur Utama
+
+Program ini memiliki beberapa fitur utama:
+
+1. **Daftar Minuman**: Program menyediakan daftar minuman yang tersedia untuk dibeli, beserta harga masing-masing.
+
+2. **Pemilihan Minuman**: Pengguna dapat memilih minuman yang ingin dibeli dengan memasukkan nomor minuman dari daftar yang tersedia.
+
+3. **Validasi Input**: Program melakukan validasi untuk memastikan nomor minuman yang dimasukkan oleh pengguna berada dalam rentang yang valid (antara 1 dan jumlah minuman yang tersedia).
+
+4. **Penambahan ke Keranjang**: Setiap kali pengguna memilih minuman, program akan menambahkan harga minuman tersebut ke total penjualan.
+
+5. **Pilihan Lanjutan**: Setelah memilih minuman, pengguna memiliki opsi untuk menambahkan minuman lain atau mengakhiri transaksi.
+
+6. **Total Pembelian**: Setelah pengguna selesai memilih minuman, program akan menampilkan total harga pembelian.
+
+Fitur-fitur ini memungkinkan program untuk mensimulasikan proses penjualan minuman secara interaktif dengan pengguna.
+
 ### Kriteria Keberhasilan Bisnis:
 
 1. **Peningkatan Penjualan**: Peningkatan penjualan sebesar 15% dari tahun ke tahun akan dianggap sebagai keberhasilan proyek.
