@@ -171,3 +171,5 @@ Fitur-fitur ini memungkinkan program untuk mensimulasikan proses penjualan minum
 5. **Efisiensi Operasional**: Peningkatan efisiensi operasional yang terukur melalui pengurangan biaya produksi dan peningkatan produktivitas staf.
 
 Dengan mencapai kriteria keberhasilan ini, Minuman SerbaSaji akan mampu memperkuat posisi pasar mereka, meningkatkan loyalitas pelanggan, dan mencapai pertumbuhan bisnis yang berkelanjutan.
+
+# FRANSISKUS DESALES BAYU PRIATMOKO
