@@ -1,0 +1,14 @@
+@startuml
+left to right direction
+actor User
+rectangle "Menu" {
+    User --> Masukkan_Pilihan
+    Masukkan_Pilihan --> Pilihan_1 : 1. Gunung Bromo
+    Masukkan_Pilihan --> Pilihan_2 : 2. Pantai Anyer
+    Masukkan_Pilihan --> Pilihan_3 : 3. Borobudur
+    Masukkan_Pilihan --> Pilihan_4 : 4. Exit
+    Pilihan_1 --> "Hubungi nomor berikut 0822737372"
+    Pilihan_2 --> "Hubungi nomor berikut 08373739372"
+    Pilihan_3 --> "Hubungi nomor berikut 83847473738"
+}
+@enduml
